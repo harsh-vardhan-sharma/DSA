@@ -1,0 +1,14 @@
+This file contains all singly linked list algorithms.
+
+1) Finding Middle of List
+2) Removing No Repeating elements
+3) Finding Kth Node from last
+4) Reverse Linked List
+5) Merger Two Sorted Linked list
+
+**This contains class for List.
+which reads data from file passed during object creation or generate random number.
+
+
+
+Algorithms interface will be used to behave object accordingly.
